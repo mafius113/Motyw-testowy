@@ -1,0 +1,1211 @@
+@import URL(https://fonts.googleapis.com/css?family=Lato);
+ ::-webkit-scrollbar-track{
+     obramowanie: 1px jednolita czerń;
+     kolor tła: rgba (0,0,0,.5);
+}
+ ::-webkit-scrollbar{
+     szerokość: 12px;
+     kursor: url(https://i.imgur.com/xZ0AKJk.png), auto!ważne;
+}
+ ::-webkit-scrollbar-kciuk{
+     kolor tła: rgba(52, 121, 223, 0,8);
+     obramowanie: 1px jednolita czerń;
+     box-shadow: wstawka 0 0 6px 3px czarny;
+}
+ ::-webkit-scrollbar-thumb:hover{
+     kolor tła: rgba(28, 83, 165, 0,8);
+}
+
+ #chatscrollbar, #myfrscrollbar, #myenscrollbar{
+     obramowanie: 1px jednolita czerń;
+     box-shadow: wstawka 0 0 6px 3px #000009c;
+     obraz tła: brak;
+     kolor tła: rgba(52, 121, 223, 0.8) !ważne;
+}
+ .pole wyboru-gd{
+     wysokość: 18px;
+     tło: url (https://i.imgur.com/MW3mqLb.png) bez powtarzania w lewym górnym rogu;
+     padding: 4px 30px 0;
+     margines-dolny: 4px;
+     pozycja w tle-y: 0px;
+}
+ .checkbox-gd.aktywny{
+     pozycja w tle-y: -22px;
+}
+.zmieńKlienta{
+    obraz tła: adres URL (https://i.imgur.com/tFGSpRx.png);
+    szerokość: 93px;
+    wysokość: 29px;
+    dół: -5px;
+}
+#wskazówka.t_shair b{
+    wyświetlacz: wbudowany;
+}
+#skills_title .reset Punkty Umiejętności{
+     góra: 9px;	
+}	
+#corners obrazek.border-d, #corners obrazek.border-r, #corners obrazek.border-l, #corners obrazek.border-u {
+    Blok wyświetlacza;
+    -moz-box-sizing: border-box;
+    rozmiar pudełka: obramowanie-pudełko;
+    powtarzanie w tle: bez powtórzeń;
+}	
+#corners img.border-d, #corners img.border-u {
+    szerokość: 799px;
+    wysokość: 7px;
+    dopełnienie lewe: 799px;
+}
+.table-header.hover-header, .table-header {
+    tło: url(https://i.imgur.com/oEiI4ik.png) !ważne;
+    kolor: #dodaj;
+}
+#corners img.border-r, #corners img.border-l {
+    szerokość: 6px;
+    wysokość: 537px;
+    dopełnienie lewe: 6px;
+}
+#corners img.border-u {
+    obraz tła: adres URL (https://i.imgur.com/Q9hsLZW.png);
+}
+#corners img.border-d {
+    obraz w tle: adres URL (https://i.imgur.com/Hx0IZGs.png);
+}
+#corners img.border-l {
+    obraz tła: adres URL (https://i.imgur.com/0k92Q0F.png);
+}
+#corners img.border-r {
+    obraz w tle: url (https://i.imgur.com/8to52wM.png);
+}
+#zdjęcie z imprezy{
+    Blok wyświetlacza;
+    -moz-box-sizing: border-box;
+    rozmiar pudełka: obramowanie-pudełko;
+    powtarzanie w tle: bez powtórzeń;
+    szerokość: 100px;
+    wysokość: 7px;
+    dopełnienie lewe: 100px;
+    obraz tła: adres URL (https://i.imgur.com/xKYzNnM.png);
+}
+#slotsForItems {
+    margines lewy: 4px;
+    pozycja: bezwzględna;
+    szerokość: 45px;
+    margines górny: 10px;
+}
+.otchlannowy{
+    Nie wyświetla się;
+    pozycja:bezwzględna;
+    lewy: 138px;
+    góra: 475px;
+    szerokość: 68px;
+    wysokość: 20px;
+    background:url(https://i.imgur.com/t9wkgnb.png);
+}
+.shair-element-slot {
+    szerokość: 33px;
+    wysokość: 33px;
+    wyświetlacz: inline-block;
+    margines: 7px;
+    pozycja: względna;
+    wyrównanie w pionie: góra;
+    background:url(https://i.imgur.com/tkIiPmK.png);
+    przejście: box-shadow 250ms;	 
+}
+.shair-element-slot img{
+	zdarzenia wskaźnikowe: brak;
+}
+.shair-item-slot mały{
+    krycie: 0,5;
+    rozmiar czcionki: 12px;
+    pozycja: bezwzględna;
+    dół: 0;
+    prawo: 0;
+    kolor biały;
+    zdarzenia wskaźnikowe: brak;
+}
+html:przed{
+    zadowolony:"";
+    Nie wyświetla się;
+    obraz w tle: adres URL (https://i.imgur.com/yLJvVMY.jpg);
+    pozycja tła:środek;
+    -webkit-background-size: okładka;
+    -moz-background-size: okładka;
+    -o-rozmiar-tła: okładka;
+    rozmiar tła: okładka;
+    wzrost: 100%;
+    szerokość:100%;
+    góra:0;
+    dół:0; 
+    lewy:0;
+    prawo:0;
+    pozycja:stała;
+    indeks z:-10;
+}
+ .tworcy-ikon, .uninstall-icon{
+     szerokość: 119px;
+     wysokość: 23px;
+     wyświetlacz: inline-block;
+}
+ .tworcy-icon:najedź, .odinstaluj-ikona:najedź{
+     pozycja-tła-y: -23px;
+}
+ .ikona-odinstaluj{
+     tło: adres URL (https://i.imgur.com/QWxNhgu.png);
+}
+ .tworzy-ikona{
+     background:url(https://i.imgur.com/6iIlcyW.png);
+}
+ .progressInfo, #_t1{
+     rodzina czcionek: Lato;
+}
+ .obramowanie-l{
+     szerokość: 7px;
+     wzrost: 100%;
+}
+ #rozmowa.w lewo {
+     szerokość: 270px;
+}
+ #prawy-ikony {
+     Nie wyświetla się;
+     pozycja: bezwzględna;
+     margines górny: -5px;
+     padding-top: 5px;
+     szerokość: 48px;
+     wysokość: 538px;
+     po prawej: -37px;
+     tło: #080e0fb5;
+     obramowanie: 1px stałe białe;
+     obramowanie lewe: brak;
+     obramowanie-górny-prawy-promień: 1em;
+     border-bottom-right-promień: 1em;
+}
+ #right-ikony a{
+     szerokość: 33px;
+     wysokość: 33px;
+     margines: 7px;
+     margines lewy: 10px;
+     Blok wyświetlacza;
+     pozycja tła: środek centrum;
+     powtarzanie w tle: bez powtórzeń;
+}
+ #wskazówka, #wskazówka.t_element, #wskazówka.t_npc, #wskazówka.t_inny{
+    tło: #072849d1;
+	obramowanie: 1px stałe #1b7af4;
+	kolor obramowania: #1b7af4;
+	czcionka: 11px Lato, bezszeryfowa;
+        promień obramowania: 10px;
+	box-shadow: 0 0 30px czarny;
+}
+#rightStats .dmg{
+    kolor: #bbb;
+}
+#rightStats .dmgp{
+    kolor: limonka;
+}
+#rightStats .dmgc{
+    kolor: #9BF;
+}
+#rightStats .dmgo{
+    kolor: #ec940f;
+}
+.dmgd{
+    kolor: #bbb;
+}
+ #pk_list_container .lista {
+     kolor: #f7d20f;
+}
+ #pk_list_info{
+     kolor: #b3900c;
+}
+ #filtr_pk{
+     kolor: złoty;
+     tło: #ffd7002e;
+     obramowanie: 1px solidne złoto;
+}
+ #pk_mini .el .loc {
+     kolor: #b3900c;
+}
+ #pk_mini{
+     obramowanie: 3px podwójne czarne;
+     górna granica: 0px;
+     tło: #000000c4;
+     kolor: #cb0604;
+}
+ #pk_list_container .list div.name span.ctrl{
+     tło: brak;
+     kolor: #61e014;
+}
+ #pk_list_container .list div.name span.ctrl.r{
+     tło: brak;
+     kolor: #d84747;
+}
+ #nowelvl{
+     obraz tła: adres URL (https://i.imgur.com/5AyMG5y.gif);
+     box-shadow: 0 0 5px 3px czarny;
+}
+ #autobattleButton, #surrenderBattleButton{
+     tło: #101a38;
+     kolor: #349ed5;
+     granica: początek 1px #0d4395;
+}
+ #recipes .choose-item-type, #recipes .choose-prof, #premiumshop .sl_amount_ps, #shop_desc{
+     kolor: #ffffff;
+}
+ #hmenu{
+     obramowanie: 4px podwójne czarne;
+}
+ #hmenu PRZYCISK:najedź {
+     tło: #000000;
+}
+ #hmenu PRZYCISK {
+     tło: #151617d6;
+     obramowanie-dół: 1px podwójny czarny;
+     kolor biały;
+     cień tekstu: 0px 0px 8px #04507d, 0px 0px 8px #0580c9, 0px 0px 8px #0580c9;
+}
+ #pk_lista {
+     obraz w tle: adres URL (https://i.imgur.com/dkB4r9A.png);
+     czcionka: 12px "Lato", bezszeryfowa;
+     kolor: złoty;
+}
+ #sklep.strój {
+     obraz w tle: url (https://i.imgur.com/UCHeirs.png);
+}
+ #premiumshop .buymore_ps, #premiumshop .closebutton_ps, #premiumshop, #premiumshop .premiumItem, #premiumshop .item_bg, #premiumshop .promocode_button{
+     obraz tła: adres URL (https://i.imgur.com/6bZKPhL.png);
+}
+ #alert div.mAlertInputContainer input[name="mAlertInput"], #alert div.mAlertInputContainer .bRight, #alert div.mAlertInputContainer .bLeft{
+     obraz tła: adres URL (https://i.imgur.com/NGsvy9a.png);
+     kolor: #ffffff;
+}
+ .ab5{
+     obraz tła: adres URL (https://i.imgur.com/L88wb7A.png);
+}
+ .ab1{
+     obraz w tle: adres URL (https://i.imgur.com/kft0gOi.png);
+}
+ #battletimer{
+     czcionka: 11px "Lato", bezszeryfowa;
+     kolor: złoty;
+}
+ #battlepanelback, #battlehelp, #battleclose, #battle .border-b{
+     obraz w tle: url(https://i.imgur.com/5rmktCK.png) !ważne;
+     kolor tła: przezroczysty;
+}
+ #tradebg, #przycisk handlu{
+     obraz tła: url (https://i.imgur.com/unUR87M.png);
+     kolor tła: przezroczysty;
+}
+#chests-window .chests-choice-wrapper .promo-chest{
+     tło: url (https://i.imgur.com/Sr7kmCP.png) -274px -615px;
+}
+.promo-klatka .header-txt{
+     tło: -webkit-linear-gradient(#78d4ff, #64a9e7);
+     -webkit-background-clip: tekst;
+}
+ #loots{
+     border-image: url(https://i.imgur.com/JMAlmJ8.png) 41 32 17 49 wypełnij rundę;
+}
+ #loots_l, #loots_r, #loots .loot, #loots B.tak, #loots B.nie, #loots_counter, #loots_button, #loots B.potrzeba{
+     obraz w tle: url(https://i.imgur.com/Z2YSAIC.png) !ważne;
+     kolor tła: przezroczysty;
+}
+ #podgląd-zdobyczy{
+     obraz tła: adres URL (https://i.imgur.com/SVGucxb.png);
+}
+ #match-details-wnd .match-details-title{
+     obraz tła: adres URL (https://i.imgur.com/rUW5K63.png);
+}
+ #skrzynka odbiorcza .mailnick{
+     obraz tła: url (https://i.imgur.com/PD6wxpr.png);
+}
+ #inbox .onemail .informacje o oszustwach{
+     kolor: #ff0000;
+     kolor tła: przezroczysty;
+}
+ #newmail TABELA TD {
+     kolor: #ffffff;
+}
+ #skrzynka odbiorcza .mhead, hv, #skrzynka odbiorcza a, #skrzynka odbiorcza .mailnick.special{
+     kolor: #39a2d9;
+}
+ .onemail godz. {
+     Nie wyświetla się;
+}
+ #inbox .onemail{
+     border-top: 3px double #5b7019;
+}
+ #shop_close, #shop_accept, #match-details-wnd .close-match-details-wrapper .close-match-details{
+     obraz w tle: url (https://i.imgur.com/prQRWVa.png);
+}
+ #skrzynka odbiorcza .mhead, hv {
+     obramowanie na dole: brak;
+}
+#premium-nagłówek-txt{
+     kolor: #b1cdf1e6;
+}
+ #mailmsg, #inbox INPUT, .mailitem{
+     kolor tła: #10141C;
+     czcionka: 12px "Lato", bezszeryfowa;
+     kolor: #ffffff;
+     obramowanie: 1px stałe #0d6ca3;
+     tło: #10141C;
+}
+#premium-panel .tiles-wrapper .pre-premium-panel-płytka .header-txt{
+     tło: -webkit-linear-gradient(#ffffff, #fefefe);
+     -webkit-background-clip: tekst !ważne;
+}
+#premium-panel .tiles-wrapper .pre-premium-panel-płytka{
+     tło: url (https://i.imgur.com/NLs9803.png) -273px -812px;
+}
+ #skrzynka odbiorcza, #skrzynka odbiorcza .onemail{
+     obraz w tle: url(https://i.imgur.com/uiISszI.png) !ważne;
+     kolor: #ffffff;
+}
+ #skrzynka odbiorcza .newmsgout{
+     obraz w tle: adres URL (https://i.imgur.com/uiISszI.png);
+}
+ #aukcje .even TD{
+     kolor tła: #10141C;
+     czcionka: 12px "Lato", bezszeryfowa;
+}
+#auctions WEJŚCIE TD{
+     tło: #3d6aa3;
+     kolor: #ffffff;
+     obramowanie: 1px stałe #086478;
+}
+.shairVersions div{
+    szerokość: 33px;
+    wysokość: 33px;
+    wyświetlacz: inline-block;
+    margines: 3px;
+}
+.shairVersions div.active {
+    box-shadow: 0px 0px 8px 1px #5b7019;
+}
+ #maile{
+     obraz tła: adres URL (https://i.imgur.com/9IdoY55.png);
+}
+ #przycisk skrzynki odbiorczej{
+     obraz w tle: url(https://i.imgur.com/alfabuy.png) !ważne;
+}
+ #aukcje .ahitem, #ah_filter, #aukcje .redback{
+     kolor tła: #10141C;
+     czcionka: 12px "Lato", bezszeryfowa;
+     kolor: kadetniebieski;
+     tło: #10141C;
+}
+#aukcje TD{
+     obramowanie: 1px stałe #0d7aae !ważne;
+     kolor tła: #10141C;
+     czcionka: 12px "Lato", bezszeryfowa;
+     kolor: kadetniebieski;
+     tło: #10141C;
+}
+#aukcje .sep{
+     tło: url (https://i.imgur.com/i36KSIB.png) bez powtórzeń -238px -158px;
+}
+#ah_mylist H5{
+     obramowanie: 1px stałe #0d7aae;
+}
+#aukcje TH{
+     kolor tła: #10141C;
+     czcionka: 12px "Lato", bezszeryfowa;
+     kolor: kadetniebieski;
+     tło: #10141C;
+     obramowanie: 1px stałe #0d7aae;
+     border-bottom: 3px double #0d7aae;
+}
+ #aukcje .even TD{
+     kolor tła: #10141C;
+     czcionka: 12px "Lato", bezszeryfowa;
+}
+ #aukcje TD.unikalne{
+     kolor: złoty;
+     czcionka: 12px "Lato", bezszeryfowa;
+}
+#ah_filter WEJŚCIE, #ah_filter WYBIERZ{
+     tło: #405f6842;
+     obramowanie: 1px stałe #154074;	
+}
+#au0{
+     kolor: #12a7ba !ważne;
+     border-bottom: 1px solid #608ec !ważne;
+}
+#_t23{
+     kolor: #12a7ba !ważne;
+}
+ #aukcje{
+     obraz w tle: url (https://i.imgur.com/4ICcSr4.png);
+}
+ #auctions button, #ahtitle, #ahselect, #ah_mylist H5, #ahselect B#b_myah, #auctions .itemcont, #auctions #ah_filter BUTTON{
+     obraz w tle: url(https://i.imgur.com/i36KSIB.png) !ważne;
+}
+ #loot-preview .close-but:hover{
+     obraz w tle: adres URL (https://i.imgur.com/7YJihOA.png);
+}
+ #depo-sections .depoUpgrade, #depo-sections .depoUpgrade{
+     kolor tła: #02395f;
+     wysokość: 22px;
+     szerokość: 18px;
+     kolor: #ffffff;
+     obramowanie: 1px stałe #050505;
+}
+ #depo-sections .d-movebar{
+     kolor tła: #2b4874;
+     obramowanie: 1px stałe #050505;
+     kolor: #ffffff;
+}
+#depo-sections .d-section.active{
+     kolor tła: #148fd7;
+}
+#depo-sections .d-sekcja{
+     tło: #055c99;
+     kolor: #ffffff;
+     obramowanie: 1px stałe #050505;
+}
+ #depo PRZYCISK{
+     obraz tła: adres URL (https://i.imgur.com/DieLNyF.png);
+}
+ #depo, #tytuł-depo{
+     obraz w tle: url (https://i.imgur.com/nVeyEf2.png);
+     kolor: #5ebcf8;
+}
+#depo-gold INPUT{
+     kolor: #ffffff;
+}
+.Data{
+     kolor tła: #002743 !ważne;
+}
+ #wzrost-siły, #wzrost-zręczności, #wzrost-intelektu{
+     kolor: #5b7019;
+     czcionka: 14px "Lato", bezszeryfowa;
+}
+ #abpoints{
+     kolor: złoty;
+     czcionka: 13px "Lato", bezszeryfowa;
+}
+ #punkty umiejętności{
+     obraz w tle: adres URL (https://i.imgur.com/vaUp9Ge.png);
+}
+ #podsumowanie-swatów .tekst-nagłówka{
+     kolor: #5b7019;
+     lewy: 10px;
+     góra: 10px;
+}
+ .MM-średnia-dialogowa{
+     kolor: złoty;
+     czcionka: 12px "Lato", bezszeryfowa;
+}
+ .MM-nagłówek-dialogu-txt {
+     pozycja-tła-y: -101px;
+}
+ .MM-przycisk-karty.MM-przycisk-karty-menu.aktywny .treść .gfont {
+     cień tekstu: 0px 1px 7px #000103;
+}
+ .MM-nagłówek walki {
+     szerokość: 48px;
+}
+.gfont{
+     kolor: #99bac4;
+}
+.SI-przycisk .lewy{
+    tło: adres URL (https://i.imgur.com/NLs9803.png);
+    pozycja w tle: -443px -229px;
+}
+.SI-przycisk .etykieta{
+    tło: adres URL (https://i.imgur.com/NLs9803.png);
+    pozycja w tle: -463px -229px;
+}
+.SI-przycisk .prawo{
+    tło: adres URL (https://i.imgur.com/NLs9803.png);
+    pozycja w tle: -622px -229px;	
+}
+#dla-ciebie-wtyczki{
+     tło: url (https://i.imgur.com/NLs9803.png) -0px -942px;
+}
+.progress-wnd .lewa-strona .tokeny-ilość-1 .zielony{
+     kolor: #00c5d3;
+}
+.etap-postępu-swatów .strona-punktów .etap{
+     kolor: #09aea9;
+}
+.season-wnd .winners-wrapper .header-info, .season-wnd .winners-wrapper .amount-players-got-outfit-info, .season-wnd .winners-wrapper .players-in-ranking-info span{
+     kolor: #078bb7;
+}
+ .MM-paginator .inptxt {
+     tło: #10141C;
+     kolor: #434343;
+     granica: brak;
+}
+ .txt-info, .twój-rekord-sezonu, .twój-rekord-kariery, .players-in-ranking-info, .season-reward-header, .season-winners-header, .matchmaking-progress-stage .points -side .ratio , .tokens-amount-1, .progress-wnd .lewa-side .char-prof, #match-details-txt .green{
+     kolor: #bcd5dd !ważne;
+}
+#premium-panel .tiles-wrapper .premium-panel-płytka .sl-cl, #pre-premium-panel .tiles-wrapper .premium-panel-płytka .shop-cl, #pre-premium -panel .tiles-wrapper .premium-panel-płytka .chest-cl, #pre-premium-panel .tiles-wrapper .pre-premium-panel-płytka .dla-ty-cl, .promo-klatka .img -opakowanie .kuferek-czerwonego-smoka-iii, .promo-klatka .img-opakowanie .kuferek-czerwonego-smoka-iv, .promo-klatka .img-opakowanie .kuferek-czarnego-smoka-iii, .promo-klatka . img-wrapper .kuferek-czarnego-smoka-iv{
+   obraz w tle: url (https://i.imgur.com/sTVCbRx.png);
+}
+ .MM-nagłówek-rankingu {
+     szerokość: 62px;
+}
+ .MM-stat-header {
+     szerokość: 50px;
+}
+ .MM-tabela-kolumna {
+     obramowanie: 1px stałe #353e32;
+}
+ .MM-stół-kontener{
+     kolor: #2da9d3;
+}
+ .MM-okno .gfont{
+     kolor: #e9eef4;
+}
+ .MM-dialog .gfont:przed{
+     kolor: #adc6d3f7;
+}
+ .MM-dialog .gfont:po{
+     kolor: #87c3f1;
+}
+ .progress-wnd .lewa-strona .char-info{
+     kolor: #1fa3db;
+}
+ .MM-nagłówek-dialogu{
+     obraz tła: url (https://i.imgur.com/gMHWy7E.png);
+}
+ .Przycisk MM .treść, .Przycisk MM .lewy, .Przycisk MM .prawy {
+     obraz tła: url (https://i.imgur.com/NLs9803.png);
+}
+ .MM-nagłówek-dialogu-txt, .MM-duży-nagłówek-przycisku{
+     obraz tła: url (https://i.imgur.com/NLs9803.png);
+}
+ .MM-okno dialogowe{
+     -moz-border-image: url (https://i.imgur.com/IMkmqNZ.png) 51 64 24 57 powtórz;
+     -webkit-border-image: url (https://i.imgur.com/IMkmqNZ.png) 51 64 24 57 powtórz;
+     -o-border-image: url(https://i.imgur.com/IMkmqNZ.png) 51 64 24 57 powtórz;
+     border-image: url(https://i.imgur.com/IMkmqNZ.png) 51 64 24 57 wypełnij powtórz;
+}
+ #złoty_baner_sklepu, #sl_sklep_baner{
+     obraz w tle: url(http://wgrajo.pl/img/baneryshop.png);
+}
+ #sklep{
+     obraz tła: adres URL (https://i.imgur.com/oxUDMUH.png);
+}
+ #dialog{
+     obraz w tle: url (https://i.imgur.com/4ICcSr4.png);
+}
+ #impreza{
+     obraz tła: url (https://i.imgur.com/9h5LOB6.png);
+}
+ .członek_imprezy, #impreza B{
+     czcionka: 12px "Lato", bezszeryfowa;
+     kolor: #ffffff;
+}
+ #party>p>div:ostatni typu{
+     kolor: biały !ważne;
+}
+ #impreza B.pcen{
+     czcionka: 12px "Lato", bezszeryfowa;
+     kolor: #ffd700;
+     grubość czcionki: 1000;
+}
+ #konsola{
+     tło: rgba (0,0,0,.8);
+}
+ #conin{
+     tło: rgba (0,0,0,.9);
+}
+ DIV.frparty, .chatfr, .delfr, #enadd, #fradd, #frsort, .delen, .frup, .frdn{
+     kolor tła: przezroczysty;
+     obraz w tle: adres URL (https://i.imgur.com/GygfNHw.png);
+}
+ #match-details-wnd{
+     obraz tła: adres URL (https://i.imgur.com/S3SpFHN.png);
+}
+ .MM-duży-przycisk.MM-przycisk-statystyki, .MM-duży-przycisk.MM-przycisk-walki, .MM-duży-przycisk.MM-przycisk-rank, .MM-przycisk-kolejki, .MM-duży -przycisk MM-przycisk eq, .MM-przycisk-eq, .MM-przycisk-eq.wybrany{
+     obraz tła: url (https://i.imgur.com/NLs9803.png);
+}
+ #panel-premium, #okno-skrzyni, #podsumowanie-swatów{
+     obraz tła: url (https://i.imgur.com/NLs9803.png);
+}
+ .extraStat-group-title{
+     czcionka: 14px "Lato", bezszeryfowa;
+     kolor: #c5a470;
+     obramowanie-dół: 1px stałe #927f7f;
+}
+ .extraStat-group{
+     margines lewy: 12px;
+     kolor: #dcf5ffc2;
+     dopełnienie: 5px 0px;
+     czcionka: 12px "Lato", bezszeryfowa;
+}
+ .extraStat-wiersz{
+     wypełnienie: 1px 3px;
+     Blok wyświetlacza;
+     oba czyste;
+     czcionka: 12px "Lato", bezszeryfowa;
+     szerokość: 140px;
+}
+ .extraStat-wartość{
+     pływak: w prawo;
+     czcionka: 12px "Lato", bezszeryfowa;
+}
+ .extraStat-row:najedź{
+     tło: rgba (0, 0, 0, 0,3);
+}
+ .extraStat-specjalne-odpornosci{
+     czcionka: 12px "Lato", bezszeryfowa;
+}
+ .extraStat-special-odpornosci .extraStat-nazwa {
+     margines lewy: 10px;
+}
+ [procent danych]:po{
+     zadowolony: "%";
+}
+ [plus dane]:przed{
+     treść: „+”;
+}
+ #prawestatystyki{
+     czcionka: 10px Arial, Verdana;
+     kolor: #dcf5fff7;
+     wyrównanie tekstu: do prawej;
+     pozycja: bezwzględna;
+     góra: 126px;
+     lewy: 152px;
+     szerokość: 100px;
+     wysokość: 40px;
+     wysokość linii: 14px;
+}
+ .rightStatBut{
+     obraz tła: url (https://i.imgur.com/hl7ZyVv.png);
+     pozycja:bezwzględna;
+     indeks z:300;
+     po lewej: 144px;
+     góra: 177px;
+     szerokość: 115px;
+     wysokość: 21px;
+}
+ #moje statystyki{
+     przepełnienie-y: przewijanie;
+     dopełnienie-prawo: 20px;
+     góra:0px;
+     prawo: 86px;
+     pozycja:bezwzględna;
+     indeks z:299;
+     szerokość:180px;
+     wysokość:512px;
+     tło: -webkit-linear-gradient(po prawej, #000000e0, #0e254f);
+     tło: -moz-linear-gradient(po prawej, #000000e0,#0e254f);
+     tło: -ms-linear-gradient(po prawej, #000000e0, #0e254f);
+     tło: -o-linear-gradient(od prawej, #000000e0, #0e254f);
+     tło: gradient liniowy (do prawej, #000000e0, #0e254f);
+     -przejście na webkit: wszystkie 700ms cube-bezier (0,52, -0,46, 0,48, 1,56);
+     -moz-transition: wszystkie 700ms cube-bezier (0,52, -0,46, 0,48, 1,56);
+     -ms-transition: wszystkie 700ms cube-bezier (0,52, -0,46, 0,48, 1,56);
+     -o-przejście: wszystkie 700ms sześcienny-bezier (0,52, -0,46, 0,48, 1,56);
+     przejście: wszystkie 700ms sześcienny-bezier (0,52, -0,46, 0,48, 1,56);
+     -webkit-box-shadow: -3px 0px 5px 1px rgba (0, 0, 0, 0.6);
+     box-shadow: -3px 0px 5px 1px rgba (0, 0, 0, 0.6);
+}
+ #mojestatystyki.aktywne{
+     po prawej: 253px;
+}
+ [data-update="kredyty"]{
+     pozycja:bezwzględna;
+     indeks z:351;
+     góra:45px;
+     prawo:50px;
+     szerokość: 30px;
+     wysokość: 11px;
+     czcionka: 11px Arial, Verdana;
+     kolor: #ffd700;
+     wyrównanie tekstu: do prawej;
+}
+ .expAnimacja{
+     pozycja: bezwzględna;
+     szerokość: 8px;
+     wysokość: 8px;
+     promień graniczny: 100%;
+     background:url(https://i.imgur.com/fdpSxBM.png);
+     indeks z: 400;
+     -przejście na webkit: wszystkie 1000ms złagodzenia;
+     -moz-transition: wszystkie 1000ms złagodzone;
+     -ms-transition: wszystkie 1000ms złagodzenia;
+     -o-przejście: wszystkie 1000ms złagodzenia;
+     przejście: wszystkie 1000 ms luzu;
+     zdarzenia wskaźnikowe: brak;
+}
+ @-webkit-klatki kluczowe flash{
+     0% {
+         box-shadow: wstawka 0 0 5px 6px #484608b8;
+    }
+     25% {
+         box-shadow: wstawka 0 0 5px 6px #5f5c08b8;
+    }
+     50% {
+         box-shadow: wstawka 0 0 5px 6px #444209b8;
+    }
+     75% {
+         box-shadow: wstawka 0 0 5px 6px #252408b8;
+    }
+     100% {
+         box-shadow: wstawka 0 0 5px 6px #3c3b17b8;
+    }
+}
+ @flashowanie klatek kluczowych{
+     0% {
+         box-shadow: wstawka 0 0 5px 6px #484608b8;
+    }
+     25% {
+         box-shadow: wstawka 0 0 5px 6px #5f5c08b8;
+    }
+     50% {
+         box-shadow: wstawka 0 0 5px 6px #444209b8;
+    }
+     75% {
+         box-shadow: wstawka 0 0 5px 6px #252408b8;
+    }
+     100% {
+         box-shadow: wstawka 0 0 5px 6px #3c3b17b8;
+    }
+}
+ sepia {
+     obramowanie: 1px solidne złoto;
+     promień obramowania: 5px;
+     wyświetlacz: inline-table;
+     margines: 2px;
+     box-shadow: wstawka 0 0 5px 6px #484608b8;
+     -webkit-animacja: 2s flash nieskończony naprzemienny;
+     animacja: 2 s flash naprzemiennie;
+}
+ obraz sepii {
+     - filtr webkit: sepia(1) jasność (102%) kontrast (150%);
+     filtr: sepia(1) jasność (102%) kontrast (150%);
+}
+ #guziki{
+     lewy: 145px;
+     góra:205px;
+}
+ #buttons DIV{
+     obraz w tle: adres URL (https://i.imgur.com/VEko4qy.png) !ważne;
+}
+ DIV#b_wiadomości{
+     lewy: 234px;
+     góra:5px;
+     obraz w tle: adres URL (https://i.imgur.com/7vTs0z5.png) !ważne;
+}
+ DIV#b_dodatki{
+     lewy:237px;
+     góra:230px;
+     obraz w tle: adres URL (https://i.imgur.com/VEko4qy.png);
+}
+ DIV#bchat{
+     obraz w tle: adres URL (https://i.imgur.com/VEko4qy.png);
+     lewy: 2px;
+     góra:520px;
+}
+ #premiumale{
+     lewy: 541px;
+     góra:515px;
+     obraz w tle: adres URL (https://i.imgur.com/opCYpmQ.png);
+     pozycja w tle: 0 0!ważne;
+}
+ #logoutbut{
+     lewy:693px;
+     góra:515px;
+     obraz w tle: adres URL (https://i.imgur.com/4CRsl2r.png);
+     pozycja w tle: 0 0!ważne;
+}
+ .MM-przełącznik-bitew{
+     góra:90px;
+}
+ .MM-battleset-switch-button {
+     obraz w tle: adres URL (https://i.imgur.com/4sIOv3N.png);
+}
+ .a1{
+     obraz w tle: url(https://i.imgur.com/EdosVo6.png) !ważne;
+}
+ .a3 {
+     obraz w tle: url(https://i.imgur.com/EdosVo6.png) !ważne;
+}
+ .a3 *{
+     obraz w tle: url(https://i.imgur.com/EdosVo6.png) !ważne;
+}
+ #MM-ikona-w-kolejce {
+     góra: -2px;
+     po prawej: 270px;
+}
+ #bm_adwent{
+     obraz w tle: adres URL (http://i.imgur.com/h7wqROw.png);
+     góra:214px;
+     lewy: 84px;
+}
+#new_event_calendar{
+     wyświetlanie: brak !ważne;
+}	
+/* CSS ZMIANA GRAFIK(POZOSTA?E) */
+ #przepisy {
+     obraz w tle: adres URL (https://i.imgur.com/THQC2MA.png);
+}
+ #addonspanel{
+     obraz w tle: adres URL (https://i.imgur.com/RKhS2as.png);
+}
+ DIV#trybpvp, #trybpvp{
+     obraz tła: url (https://i.imgur.com/ur4NzER.png);
+     góra:518px;
+     lewy: 475px;
+     indeks z:301;
+	 szerokość: 17px;
+     wysokość: 17px;
+	 pozycja w tle: 0px -57px;
+}
+ #klanmenu{
+     obraz w tle: url (https://i.imgur.com/ZFD9pYY.png);
+}
+ #mapapanel{
+     obraz w tle: adres URL (https://i.imgur.com/Anfacfk.png);
+}
+ #przyjaciele{
+     obraz tła: url (https://i.imgur.com/5o5WgYd.png);
+}
+ #konfiguracja{
+     obraz w tle: url(https://i.imgur.com/XbFFwLr.png) !ważne;
+     powtarzanie w tle: powtarzanie;
+}
+ #config center:ostatnie dziecko {
+     obraz w tle: url(https://i.imgur.com/S3SpFHN.png) !ważne;
+     pozycja tła: dół;
+}
+#płyta{
+  background:url(https://i.imgur.com/IGalCxN.png);
+}
+ .conf-tytuł{
+     obraz w tle: url(https://i.imgur.com/MKSadIS.png) !ważne;
+}
+ #umiejętności, #tytuł_umiejętności{
+     obraz tła: adres URL (https://i.imgur.com/7AyXGs3.png);
+}
+ .skills_tab_header{
+     obraz tła: url (https://i.imgur.com/0II47pO.png);
+}
+ #inpchat{
+     obraz w tle: adres URL (https://i.imgur.com/yjxN9IN.png);
+}
+ .pozycja MAŁA{
+     rozmiar czcionki:12px;
+}
+ #okno-dziennika zadań {
+     obraz tła: url (https://i.imgur.com/WonrKKw.png);
+ }
+.lista zadań p{
+     kolor: #218421;
+}
+ .lista zadań p{
+     obraz w tle: adres URL (https://i.imgur.com/oGr6Dvo.png);
+     czcionka: 15px "Lato", bezszeryfowa;
+     grubość czcionki: 700;
+}
+ #clanbox .członkowie TH{
+     obraz w tle: url (https://i.imgur.com/oEiI4ik.png);
+}
+ #Dolny pasek{
+     obraz tła: adres URL (https://i.imgur.com/2KifkHO.png);
+}
+ #dlgwin .w2{
+     obraz w tle: url(https://i.imgur.com/3nadyfb.png) !ważne;
+}
+ .w2{
+     kolor: #56709b;
+     obraz w tle: url(https://i.imgur.com/3nadyfb.png) !ważne;
+}
+ #alert, #dlgwin, #staminashop, .MM-alert{
+     obraz w tle: url(https://i.imgur.com/yxFdogH.png) !ważne;
+}
+ #alert .a1, #alert .a3, #przycisk alertu, #dlgwin .w1, #staminashop .a1, #staminashop .a3{
+     obraz w tle: url(https://i.imgur.com/a5xURjr.png) !ważne;
+}
+#czat, #chattabs S{
+  obraz w tle: adres URL (https://i.imgur.com/sgNqnZY.png);
+}
+#leorn1, #leorn2{
+  Nie wyświetla się;
+}
+#chat.left #chattabs s {
+  obraz w tle: adres URL (https://i.imgur.com/I3q4C0g.png);
+}
+#rozmowa.w lewo {
+  kolor tła:#444;
+  obraz w tle: adres URL (https://i.imgur.com/I3q4C0g.png);
+}
+ #cfg_options DIV{
+     kolor: #7d8289;
+     czcionka: 13px "Lato", bezszeryfowa;
+}
+.moje-pole wyboru, .moje-pole wyboru.aktywne{
+     kolor: #5B7019;
+     czcionka: 13px "Lato", bezszeryfowa;
+     obraz w tle: url (https://i.imgur.com/lzJSNWb.png);
+}
+ #pre-premium-panel .close-pre-premium, #recipes .close-but, #okno-skrzynie .close-klatki-okno, #podgląd łupów .close-but{
+     obraz w tle: url (https://i.imgur.com/0BgjfLB.png);
+}
+ .zamknijbut, .zamknijale{
+     obraz w tle: url (https://i.imgur.com/0BgjfLB.png);
+     margines: 4px;
+}
+ #config .zapisz{
+     obraz w tle: url (https://i.imgur.com/levFfUL.png);
+}
+ #config .anuluj{
+     obraz w tle: adres URL (https://i.imgur.com/KJBnFwN.png);
+}
+#lista map B{
+     kolor: #ffffff;
+}
+ #clanbox, #inmap, #inmap2wrapper, #addons{
+     obraz w tle: url (https://i.imgur.com/4ICcSr4.png);
+}
+ #lagmeter{
+     obraz w tle: adres URL (https://i.imgur.com/iMkjOXy.png);
+}
+ .skillbox{
+     obraz w tle: adres URL (https://i.imgur.com/KwNWGmT.png);
+}
+/* CSS ZMIANY POŁOENIA, STYLI ITP. */
+ .q_zabij{
+     czcionka: 13px "Lato", bezszeryfowa;
+     kolor: #d1d1d1;
+}
+ .q_doit{
+     kolor: #10c4a6b5;
+     czcionka: 13px "Lato", bezszeryfowa;
+}
+ #inpchat, #bottxt{
+     lewy: 65px;
+     góra:9px;
+}
+ #wyr2.brakwyr{
+     obraz w tle: url(https://i.imgur.com/IbBwTI3.png) !ważne;
+}
+ #eks1, #życie1{
+     rozmiar czcionki: 10px;
+     wyrównanie tekstu: środek;
+     kolor: przezroczysty;
+     grubość czcionki: pogrubiona;
+}
+ #wyr1,#wyr2{
+     góra: 102px;
+     lewy: 663px;
+}
+ #życie2, #exp2{
+     obramowanie-dolny-prawy-promień: 100%;
+     obramowanie-górny-lewy-promień: 100%;
+}
+ #exp2{
+     obraz w tle: adres URL (https://i.imgur.com/KMrHjMn.png) !ważne;
+}
+ #życie1,#życie2{
+     góra:91px;
+     lewy: 663px;
+}
+ #życie2{
+     obraz w tle: adres URL (https://i.imgur.com/ERM2hdU.png) !ważne;
+}
+ #torba{
+     lewy:24px;
+     góra:261px;
+}
+ #złoto{
+     góra:45px;
+     po lewej:520px;
+     czcionka: Arial 11px;
+}
+ .treasury > div:pierwszy typu{
+     kolor tła: #081f4d00 !ważne;
+}
+ #clanbox PRZYCISK{
+     czcionka: 10px „Lato”, bezszeryfowa;
+     kolor: #70a3b8;
+}
+ #clanbox{
+     czcionka: 11px "Lato", bezszeryfowa;
+     kolor: #70a3b8;
+}
+ #clanbox span.nick{
+     czcionka: 13px "Lato", bezszeryfowa;
+     kolor: #70a3b8;
+}
+ .klan TD{
+     czcionka: 14px "Lato", bezszeryfowa;
+     kolor: #70a3b8;
+}
+ #botloc{
+     góra:519px;
+     lewy: 427px;
+}
+ #skillPrzełącznik{
+     góra: 112px;
+     lewy: 92px;
+     obraz w tle: url(https://i.imgur.com/MSxomTs.png) !ważne;
+}
+ #nacięcie{
+     kolor biały;
+     text-shadow: 0px 0px 8px cyjan, 0px 0px 8px ciemnoniebieski, 0px 0px 8px niebieski;
+     rodzina czcionek:"Lato",bezszeryfowa;
+}
+ .a2 {
+     kolor: #7d8289;
+     czcionka: 14px "Lato", bezszeryfowa;
+}
+ #liczba umiejętności {
+     kolor: #ffffff;
+     czcionka: 16px "Lato", bezszeryfowa;
+     góra: 9px;
+     lewy: 310px;
+}
+ .skills_tab_text {
+     kolor: #a0c0fc;
+     czcionka: 12px "Lato", bezszeryfowa;
+}
+ .skillbox_lvl{
+     kolor: #ffffff;
+     czcionka: 10px „Lato”, bezszeryfowa;
+}
+ #clanbox .clanlist B{
+     kolor: #a1d4e9;
+     czcionka: 14px "Lato", bezszeryfowa;
+     grubość czcionki: 700;
+}
+ .awatara{
+     Nie wyświetla się;
+     pozycja:bezwzględna;
+     góra:-2px;
+     lewy: 16px;
+     szerokość:32px;
+     wysokość:32px;
+     indeks z:350;
+     krycie: 0,8;
+}
+ #surrenderBattleButton{
+     po lewej: 15px !ważne;
+}
+ #chattxt{
+     rodzina czcionek:"Lato",bezszeryfowa;
+}
+ .tipInnerContainer{
+     rodzina czcionek:"Lato",bezszeryfowa;
+}
+ #bitwa{
+     rodzina czcionek:"Lato",bezszeryfowa;
+}
+ #buttons DIV:hover, #logoutbut:hover, #premiumbut:hover, .hightlight:hover{
+     filtr: jasność (150%);
+     - filtr webkit: jasność (150%);
+}
+ textarea#battle_for_forum{
+     kolor tła: #10141C;
+     kolor: #5B7019;
+     kolor obramowania: rgb(16, 20, 28);
+}
+ #addonSzczegóły{
+     kolor tła: #13171F;
+}
+ #dodatki h1{
+     kolor: #70a3b8;
+     czcionka: 20px "Lato", bezszeryfowa;
+     grubość czcionki: 700;
+}
+ #dodatki *, .search, #recipes .start-lvl, #recipes .stop-lvl{
+     kolor: #a1d4e9;
+     czcionka: 14px "Lato", bezszeryfowa;
+}
+ #recipes .nagłówek-przepisu{
+     obramowanie-dół: 0px;
+}
+#tip-o1, #tip-o2, DIV#b_matchmaking, #dlgtitle, #tutorial,#leorn1,#leorn2,#b_help,#stats,#base3,.lt-hor,.lt-ver,.ld-hor, .ld-ver,.rt-hor,.rt-ver,.rd-hor,.rd-ver, #b_config{
+     wyświetlanie:brak !ważne;
+}
+ * {
+     kursor: url(https://i.imgur.com/ziuWzSg.png), auto;
+}
+.shairVersions div.active, .shairVersions div, .bal_cancel, #myfrscrollbar, #myenscrollbar, .otchlannew, .dodatkionpub, .dodatkion, .tworcy-icon, #loot-preview .close-but, .MM-queue-button, ikona-deinstalacji, .checkbox-gd, .header-wrapper .przycisk-zamknij, .header .przycisk-zamknij, #addons .description *, .element_menu, .bal_yes, .bal_no, .MM-button *, .close-chests -window, .skillbox_icon, .skillbox_icon_holder, .skillbox, #a_ok.bal_ok, #chatscrollbar, #pre-premium-panel .tiles-wrapper .pre-premium-panel-tile, .close-pre-premium, .graph.sl -cl, .header-txt, .graph,shop-cl, .graph.chest-cl, .graph.for-you-cl, .MM-stat-button, .MM-fight-button, .MM-rank- button, .MM-stat-header, .MM-fight-header, .MM-rank-header, .closebut, .ustawienia, #chattxt .chnick, #chattxt U, #chat, #chattabs, #chattabs s, #chat .left, #chattabs.left, .rightStatBut, .MM-battleset-switch-button, #cfg_options > div, [onclick], [href], [onclick] > *{
+     kursor: url(https://i.imgur.com/xZ0AKJk.png), auto!ważne;
+}
+ .ustawienie{
+     pozycja:bezwzględna;
+     indeks z:300;
+     lewy: 617px;
+     góra:515px;
+     szerokość: 68px;
+     wysokość: 20px;
+     tło: adres URL (https://i.imgur.com/51Co85r.png);
+}
+ .dodatki{
+     pozycja:bezwzględna;
+     lewy: 364px;
+     góra:-1px;
+     szerokość: 33px;
+     wysokość: 33px;
+     tło: adres URL (https://i.imgur.com/71ykw3H.png);
+}
+ .dodatkionpub{
+     pozycja:bezwzględna;
+     lewy: 364px;
+     góra:-1px;
+     szerokość: 33px;
+     wysokość: 33px;
+     tło: adres URL (https://i.imgur.com/71ykw3H.png);
+}
+ .npc.kursor-npc{
+     kursor: url(https://i.imgur.com/l1Iq1Uq.png), auto !ważne;
+}
+ .npc.atak-kursorem{
+     kursor: url(https://i.imgur.com/xF0AbnU.png), auto!ważne;
+}
+ .troop[ctip="t_troop2"]{
+     kursor: url(https://i.imgur.com/xF0AbnU.png), auto!ważne;
+}
+ #b_pvp{
+     góra: 205px;
+     po lewej: 236px;
+     wysokość: 22px;
+     tło: adres URL (https://i.imgur.com/QAZoZrt.png);
+     background-position-y: 0px !ważne;
+     background-position-x: 22px !ważne;
+}
+ #b_pvp:najedź{
+     background-position-y: 22px !ważne;
+}
+ #b_pvp.aktywny{
+     background-position-x: 0px !ważne;
+}
+#right-icons a[data-icon="0"]{
+    obraz w tle: adres URL (https://i.imgur.com/7lowevI.png);
+}
+#right-icons a[data-icon="1"]{
+    obraz w tle: url (https://i.imgur.com/uSZkZcs.png);
+}
+#right-icons a[data-icon="2"]{
+    obraz tła: adres URL (https://i.imgur.com/n3xuYAe.png);
+}
+#right-icons a[data-icon="3"]{
+    obraz w tle: adres URL (https://i.imgur.com/8zcwr5u.png);
+}
+#right-icons a[data-icon="4"]{
+    obraz w tle: adres URL (https://i.imgur.com/EehcqS0.png);
+}
+#right-icons a[data-icon="5"]{
+    obraz tła: adres URL (https://i.imgur.com/d2TNuW4.png);
+}
+#right-icons a[data-icon="6"]{
+    obraz w tle: adres URL (https://i.imgur.com/NAaaiuB.png);
+}
+#right-ikony a[data-icon="7"]{
+    obraz w tle: url(http://s6.ifotos.pl/img/kalendarz_qwrahew.png);
+    obramowanie-promień: 0px 8px 0px 8px;
+    box-shadow: 0px 0px 3px 2px #ffffffa8;
+}
+#right-icons a[data-icon="8"]{
+    obraz w tle: url (https://i.imgur.com/rhe1ogf.png);
+}
+#right-icons a[data-icon="9"]{
+    obraz tła: adres URL (https://i.imgur.com/NJlEZ8Z.png);
+}
